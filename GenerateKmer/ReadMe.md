@@ -3,3 +3,6 @@ The term k-mer typically refers to all the possible substrings of length k that 
 In sequence assembly, k-mers are typically used during the construction of De Bruijn graphs. In order to create a De Bruijn Graph, the strings stored in each edge with length, L, must overlap another string in another edge by L-1 in order to create a vertex
 
 Source: https://en.wikipedia.org/wiki/K-mer
+
+Given a string of certain length and user defined kmer-size, this script gives all possible kmers along with total number of k-mers generated.
+
