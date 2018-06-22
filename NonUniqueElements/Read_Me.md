@@ -1,8 +1,8 @@
 ### Problem definition
-> Probelm taken from [py.checkio.org](https://py.checkio.org/en/mission/non-unique-elements/)
+> Problem taken from [py.checkio.org](https://py.checkio.org/en/mission/non-unique-elements/)
 
 *If you have 50 different plug types, appliances wouldn't be available and would be very expensive. But once an electric outlet becomes standardized, many companies can design appliances, and competition ensues, creating variety and better prices for consumers.*
-> Bill Gates 
+> *Bill Gates*
 
 If you have `50` different plug types, appliances wouldn't be available and would be very expensive. But once an electric outlet becomes standardized, many companies can design appliances, and competition ensues, creating variety and better prices for consumers. 
 
