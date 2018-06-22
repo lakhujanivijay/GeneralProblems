@@ -22,4 +22,4 @@ c 8, 9
 
 i.e. each unique value in column 1 is associated with values in common 2 if the value in column 1 is same
 
-The input file is something like [this](https://github.com/lakhujanivijay/GeneralProblems/blob/master/Python_Dictionary/out2.txt); and the output file is [this](https://github.com/lakhujanivijay/GeneralProblems/blob/master/Python_Dictionary/out2.txt)
+The input file is something like [this](https://github.com/lakhujanivijay/GeneralProblems/blob/master/Python_Dictionary/out_1.txt); and the output file is [this](https://github.com/lakhujanivijay/GeneralProblems/blob/master/Python_Dictionary/out2.txt)
