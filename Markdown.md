@@ -1,8 +1,8 @@
 ### Bold + italic
 
-```_**`vijay`**_```
+```_**vijay**_```
 
-_**`vijay`**_
+_**vijay**_
 
 ---
 
