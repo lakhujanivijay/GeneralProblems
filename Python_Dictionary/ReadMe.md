@@ -1,5 +1,6 @@
 ### Problem Definition
-> Associating multiple items as value to python dictionary
+
+For `key-value` pairs, associate the `values` to a 'key' in a single instance
 
 Consider following type of data set.
 ```
